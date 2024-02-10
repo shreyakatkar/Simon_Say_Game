@@ -16,6 +16,6 @@
 3. JAVASCRIPT
 
 ## Link :
-URL - 
+URL - https://shreyakatkar.github.io/Simon_Say_Game/
 
 ###Thankyou😄
